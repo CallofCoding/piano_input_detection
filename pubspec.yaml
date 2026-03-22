@@ -3,7 +3,7 @@ description: >
   Real-time piano note detection from microphone audio using Google Magenta's
   TFLite model. Emits MIDI-standard noteOn / noteOff events (note numbers 0–127).
 version: 1.0.0
-homepage: https://github.com/your-org/piano_input_detection
+homepage: https://github.com/CallofCoding/piano_input_detection
 
 environment:
   sdk: ">=2.18.0 <4.0.0"
