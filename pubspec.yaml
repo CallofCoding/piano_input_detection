@@ -1,4 +1,5 @@
 name: piano_input_detection
+publish_to: none
 description: >
   Real-time piano note detection from microphone audio using Google Magenta's
   TFLite model. Emits MIDI-standard noteOn / noteOff events (note numbers 0–127).
